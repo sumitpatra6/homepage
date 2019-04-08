@@ -1,2 +1,2 @@
-# homepage
-home page
+# logo created in 
+`https://hatchful.shopify.com/your-logos`
