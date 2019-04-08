@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import index from './index.png'
 import './App.css';
+import './slideshow.css';
 import { Navbar, Nav, Form, FormControl, Button } from 'react-bootstrap';
 import HomePage from './HomePage';
 
@@ -9,7 +10,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Navbar bg="dark" variant="dark">
+        <Navbar bg="dark" variant="dark" style={{
+          'z-index' : '100'
+        }}>
           <Navbar.Brand href="#vision">
             <img src={index} alt="logo" style={{
               'height' : '40px',

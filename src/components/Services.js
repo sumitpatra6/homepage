@@ -44,7 +44,10 @@ class Services extends React.Component {
                                     'align-items': 'left'
                                 }}><h3>Pose Estimation</h3>
                                     <hr />
-                                    <p className='description'>Pose Dstimation Description.</p>
+                                    <p className='description'>Pose estimation refers to computer 
+                                    vision techniques that detect human figures in images 
+                                    and video, so that one could determine, for example, 
+                                    where someone’s elbow shows up in an image.</p>
                                 </Col>
 
 
@@ -61,7 +64,10 @@ class Services extends React.Component {
                                     'align-items': 'left'
                                 }}><h3>Image Segmentation</h3>
                                     <hr />
-                                    <p className='description'>Image Segmentation Description.</p>
+                                    <p className='description'>Image segmentation is the process of 
+                                    dividing an image into multiple parts. 
+                                    This is typically used to identify objects or 
+                                    other relevant information in digital images</p>
                                 </Col>
                             </Row>
                             <div className='separator'></div>
@@ -76,7 +82,11 @@ class Services extends React.Component {
                                     'align-items': 'left'
                                 }}><h3>Language Segmentation</h3>
                                     <hr />
-                                    <p className='description'>Language Segmentation Description.</p>
+                                    <p className='description'>Speech segmentation is the process 
+                                    of identifying the boundaries between words, 
+                                    syllables, or phonemes in spoken natural languages. 
+                                    The term applies both to the mental processes used by humans, 
+                                    and to artificial processes of natural language processing.</p>
                                 </Col>
 
 

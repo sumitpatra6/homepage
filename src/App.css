@@ -37,7 +37,6 @@
 .visionContainer{
   display: table;
   width: 100%;
-  background-image: url('./images/vision.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   height: 500px;
