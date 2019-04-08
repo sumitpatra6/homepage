@@ -40,7 +40,7 @@
   background-image: url('./images/vision.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
-  min-height: 500px;
+  height: 500px;
 
 }
 
@@ -65,7 +65,7 @@
   font-family: 'Crete Round', serif;
   font-size: 18px;
   margin-left: auto;
-  width: 90%;
+  width: 70%;
   display: inline-block;
 }
 
@@ -110,7 +110,7 @@
   width: 100%;
   background-image: url('./images/dataBackground.png');
   min-height: 300px;
-  
+  color : white;
 }
 
 .description{
@@ -128,7 +128,7 @@
   display: table-cell;
   vertical-align: middle;
   width: 40%;
-  display: inline-block
+  display: inline-block;
 }
 @media screen and (min-width : 0px) and (max-width : 411px){
   .vision p {
@@ -141,7 +141,7 @@
   }
 
   .visionContainer{
-    min-height: 400px;
+    height: 400px;
   }
 
   .services{
